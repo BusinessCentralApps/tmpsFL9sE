@@ -3,5 +3,6 @@
   "type": "PTE",
   "doNotPublishApps": false,
   "MicrosoftTelemetryConnectionString": "",
-  "templateUrl": "https://github.com/businesscentralapps/tmpBnul3M-PTE@main"
+  "templateUrl": "https://github.com/businesscentralapps/tmpBnul3M-PTE@main",
+  "templateSha": "cf6d987c82c4a4a00d98c275d41642f0ef65e911"
 }
